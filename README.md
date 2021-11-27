@@ -3,6 +3,8 @@
 
 ### Hi there 👋
 
+My NuGet packages: https://www.nuget.org/profiles/ffMathy
+
 **I'm currently building the GitHub app [Pull Dog](https://dogger.io)**, which creates a Docker-based test environment for every pull request you open, and send a link to the environment right in the pull request itself, as a comment.
 
 ![Pull Dog logo](https://dogger.io/images/dogger-no-title.svg)
