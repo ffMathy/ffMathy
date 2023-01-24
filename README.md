@@ -1,13 +1,6 @@
-[![ffMathy's github stats](https://github-readme-stats.vercel.app/api?username=ffMathy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffMathy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Hi there 👋
+# Hi there 👋
 
 My NuGet packages: https://www.nuget.org/profiles/ffMathy
-
-**I'm currently building the GitHub app [Pull Dog](https://dogger.io)**, which creates a Docker-based test environment for every pull request you open, and send a link to the environment right in the pull request itself, as a comment.
-
-![Pull Dog logo](https://dogger.io/images/dogger-no-title.svg)
 
 <!--
 **ffMathy/ffMathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
